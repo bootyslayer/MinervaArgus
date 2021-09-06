@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MinervaArgus
+- 👀 I’m interested in ... Video Games, Anime, Coding Obviously, and finding new technology online.
+- 🌱 I’m currently learning ... Python, Django, Java, JS, CSS, and HTML (Java is my best language right now)
+- 💞️ I’m looking to collaborate on ... Anything that would be a good beginner project in Python, JS, or Java to put on my portfolio for a job.
+- 📫 How to reach me ... officialnevvs@gmail.com
